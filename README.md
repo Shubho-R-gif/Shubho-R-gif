@@ -6,14 +6,15 @@ Welcome to my GitHub profile! I am a **Web Developer** with a passion for creati
 
 ### 💻 Skills & Technologies
 
-I'm proficient in the following technologies:
+I am proficient in the following technologies:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square&labelColor=orange" height="40" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square&labelColor=blue" height="40" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow" height="40" />
+  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square&labelColor=blue" height="40" />
+  <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat-square&labelColor=orange" height="40" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square&labelColor=black" height="40" />
 </p>
 
 ---
@@ -47,4 +48,5 @@ Feel free to browse through my repositories, reach out for potential collaborati
 ---
 
 > "The best way to predict the future is to invent it." - Alan Kay
+
 

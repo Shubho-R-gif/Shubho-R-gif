@@ -1,6 +1,6 @@
 # 🌟 Shubho-R-gif 👨‍💻 | Web Developer
 
-![GitHub Banner]([https://github.com/Shubho-R-gif/Shubho-R-gif/blob/main/banner.png](https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7))
+![GitHub Banner](https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7)
 
 Welcome to my GitHub profile! I am a **Web Developer** passionate about building scalable, interactive, and visually appealing web applications. Currently, I’m focused on mastering **front-end technologies** .
 ---

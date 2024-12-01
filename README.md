@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I am a **Web Developer** passionate about building
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 
 ---

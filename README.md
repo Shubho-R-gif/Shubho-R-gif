@@ -1,38 +1,50 @@
-# Shubho-R-gif 👨‍💻
+# 🌟 Shubho-R-gif 👨‍💻 | Web Developer
 
-Welcome to my GitHub profile! I am a **Web Developer** passionate about building modern, user-friendly web applications. Currently, I am honing my skills in **front-end development** and mastering **Git** for version control.
+Welcome to my GitHub profile! I am a **Web Developer** with a passion for creating responsive, interactive, and visually appealing web applications. Currently, I’m focusing on **front-end development** and mastering **version control with Git**.
 
 ---
 
-### 🔧 Skills & Technologies
+### 💻 Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+I'm proficient in the following technologies:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Shubho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ### 📫 How to Reach Me
 
-- Email: [shubho@example.com](mailto:shubho@example.com)
-- LinkedIn: [Shubho LinkedIn](your-linkedin-profile)
-- Portfolio: [Shubho's Portfolio](your-portfolio-link)
+Let’s connect! You can reach me via:
+
+- ✉️ **Email**: [shubho@example.com](mailto:shubho@example.com)
+- 🔗 **LinkedIn**: [Shubho LinkedIn](your-linkedin-profile)
+- 🌐 **Portfolio**: [Shubho's Portfolio](your-portfolio-link)
 
 ---
 
-### ⚡ Fun Fact
+### 🎯 Fun Fact
 
-I enjoy experimenting with **UI/UX design** and find new ways to make web interfaces intuitive and visually appealing. When I’m not coding, you’ll likely find me exploring new technologies or reading up on the latest in web development trends.
+I'm fascinated by **UI/UX design** and always on the lookout for ways to improve the user experience. When I'm not coding, I enjoy exploring new **front-end frameworks**, experimenting with **design trends**, and reading up on the latest tech innovations.
+
+---
+
+### 🚀 Let's Build Something Amazing!
+
+Feel free to browse through my repositories, reach out for potential collaborations, or discuss new opportunities. I'm always eager to learn and contribute to exciting projects! 🙌
 
 ---
 
-### 🛠️ Let's Connect
-
-Feel free to explore my repositories, get in touch, and discuss new opportunities or exciting projects. I’m always looking to collaborate and learn from others!
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubho-R-gif.Shubho-R-gif)
-
----
+> "The best way to predict the future is to invent it." - Alan Kay
 

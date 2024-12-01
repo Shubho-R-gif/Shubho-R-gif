@@ -7,12 +7,14 @@ Welcome to my GitHub profile! I am a **Web Developer** passionate about building
 
 Here are the technologies I work with:
 
+
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/html-5.png" width="70" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/ios/452/css3.png" width="70" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/ios/452/javascript.png" width="70" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/ios/452/react.png" width="70" alt="React" title="React"/>
-  <img src="https://img.icons8.com/ios/452/github.png" width="70" alt="GitHub" title="GitHub"/>
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square&labelColor=orange" height="40" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square&labelColor=blue" height="40" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow" height="40" />
+  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square&labelColor=blue" height="40" />
+  <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat-square&labelColor=orange" height="40" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square&labelColor=black" height="40" />
 </p>
 
 ---

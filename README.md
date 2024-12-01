@@ -9,12 +9,11 @@ Here are the technologies I work with:
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square&labelColor=orange" height="40" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square&labelColor=blue" height="40" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow" height="40" />
-  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square&labelColor=blue" height="40" />
-  <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat-square&labelColor=orange" height="40" />
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square&labelColor=black" height="40" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square&labelColor=orange" height="60" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square&labelColor=blue" height="60" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow" height="60" />
+  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square&labelColor=blue" height="60" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square&labelColor=black" height="60" />
 </p>
 
 ---

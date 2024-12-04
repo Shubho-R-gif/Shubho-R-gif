@@ -24,7 +24,7 @@ Here are the technologies I work with:
 
 Feel free to get in touch! Here's how you can reach me:
 
-- ✉️ **Email**: [shubhamm1989@hotmail.com)
+- ✉️ **Email**: [subhor.workwith@gmail.com)
 - 🔗 **LinkedIn**: [Shubho LinkedIn](https://www.linkedin.com/in/subho-halder-5b9aa127b/)
 - 🌐 **Portfolio**: [Shubho's Portfolio](your-portfolio-link)
 

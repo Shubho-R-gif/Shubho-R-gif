@@ -26,7 +26,7 @@ Feel free to get in touch! Here's how you can reach me:
 
 - ✉️ **Email**: [subhor.workwith@gmail.com)
 - 🔗 **LinkedIn**: [Shubho LinkedIn](https://www.linkedin.com/in/subho-halder-5b9aa127b/)
-- 🌐 **Portfolio**: [Shubho's Portfolio](shubhorwebdev.com)
+- 🌐 **Portfolio**: [Shubho's Portfolio](https://www.shubhorwebdev.com)
 
 ---
 

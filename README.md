@@ -23,12 +23,12 @@
 ---
 
 ## 📊 GitHub Stats  
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=30,1B4D3D,3E9E6D&title_color=FDCB5C&text_color=FFFFFF&icon_color=5DAF7E" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=dark&background=1B4D3D&ring=FDCB5C&fire=5DAF7E&currStreakLabel=FDCB5C" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=1B4D3D&title_color=FDCB5C&text_color=FFFFFF&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=30,89CFF0,4B8F29&title_color=BBF451&text_color=FFFFFF&icon_color=99C14E" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=dark&background=89CFF0&ring=BBF451&fire=99C14E&currStreakLabel=BBF451" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=89CFF0&title_color=BBF451&text_color=FFFFFF&hide_border=true" height="170" />
 </div>
+>
 
 ---
 

@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&theme=tokyonight&bg_color=0,1A2B34,3A4A56&title_color=00FF6B&text_color=fff&icon_color=00FF6B&border_radius=10" height="170" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&theme=dark&bg_color=0,1F2D3D,2C3E4F&title_color=7FDBFF&text_color=fff&icon_color=7FDBFF&border_radius=12&hide_border=true" height="170" width="500" />
 </div>
 ---
 

@@ -24,10 +24,11 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=30,003300,006400&title_color=FFFFFF&text_color=FFFFFF&icon_color=A9F0A9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=dark&background=003300&ring=FFFFFF&fire=A9F0A9&currStreakLabel=FFFFFF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=003300&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=30,004d00,006400&title_color=FFFFFF&text_color=FFFFFF&icon_color=A9F0A9" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=dark&background=004d00&ring=FFFFFF&fire=A9F0A9&currStreakLabel=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=004d00&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="170" />
 </div>
+
 
 
 ---

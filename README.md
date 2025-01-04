@@ -1,11 +1,11 @@
 # 🌟 Shubho-R-gif 👨‍💻 | Web Developer  
 
-![GitHub Banner](https://i.imgur.com/PRcEmHL.png)  
-<!-- Replace the above banner URL with your custom one if you'd like -->
+![GitHub Banner](https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7)  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B42C&center=true&width=650&lines=Welcome+to+my+GitHub+Profile!+👋;I+build+scalable+and+interactive+web+apps.;Mastering+front-end+development.;Let's+collaborate+and+create+something+awesome!" alt="Typing Animation" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&width=435&lines=Hi%2C+I'm+Shubho!+👋;Web+Developer+%26+UI%2FUX+Enthusiast;Passionate+about+creating+awesome+web+apps!" alt="Typing Animation" />  
 </p>  
+ 
 
 ---
 

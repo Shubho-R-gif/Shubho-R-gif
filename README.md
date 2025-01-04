@@ -24,11 +24,9 @@
 
 ## 📊 GitHub Stats  
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&theme=merko&bg_color=0,1B5E20,2E7D32&title_color=fff&text_color=fff&icon_color=81C784&border_radius=12" height="170" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&theme=tokyonight&bg_color=0,1A2B34,3A4A56&title_color=00FF6B&text_color=fff&icon_color=00FF6B&border_radius=10" height="170" width="500" />
 </div>
-
 ---
 
 ## 📫 How to Reach Me  

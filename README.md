@@ -3,7 +3,7 @@
 ![GitHub Banner](https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7)  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F8C8DC&center=true&width=550&lines=Hi%2C+I'm+Shubho!+👋;Web+Developer+%26+UI%2FUX+Enthusiast;Creating+Interactive+%26+Scalable+Web+Apps!" alt="Typing Animation" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F8C8DC&center=true&width=550&lines=Hi%2C+I'm+Shubho!+👋;Web+Developer+%26+UI%2FUX+Enthusiast;Creating+Interactive+%26+Scalable+Web+Apps!" alt="Typing Animation" />  
 </p>  
 
 ---

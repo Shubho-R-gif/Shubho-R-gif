@@ -1,9 +1,10 @@
 # 🌟 Shubho-R-gif 👨‍💻 | Web Developer  
 
-![GitHub Banner](https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7)  
+![GitHub Banner](https://i.imgur.com/PRcEmHL.png)  
+<!-- Replace the above banner URL with your custom one if you'd like -->
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&width=435&lines=Hi%2C+I'm+Shubho!+👋;Web+Developer+%26+UI%2FUX+Enthusiast;Passionate+about+creating+awesome+web+apps!" alt="Typing Animation" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B42C&center=true&width=650&lines=Welcome+to+my+GitHub+Profile!+👋;I+build+scalable+and+interactive+web+apps.;Mastering+front-end+development.;Let's+collaborate+and+create+something+awesome!" alt="Typing Animation" />  
 </p>  
 
 ---
@@ -11,7 +12,7 @@
 ## 💻 Skills & Technologies  
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/-HTML5-FF5733?logo=html5&logoColor=white&style=for-the-badge" height="35" />  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" />  
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" />  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" />  
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" />  
@@ -57,7 +58,6 @@ I’m always open to:
 > **"The future belongs to those who create it—one line of code at a time."**  
 
 Let’s build something extraordinary together!  
-
 
 
 

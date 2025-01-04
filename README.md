@@ -25,8 +25,11 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&theme=dark&bg_color=0,1F2D3D,2C3E4F&title_color=7FDBFF&text_color=fff&icon_color=7FDBFF&border_radius=12&hide_border=true" height="170" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=30,1B4D3D,3E9E6D&title_color=FDCB5C&text_color=FFFFFF&icon_color=5DAF7E" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=dark&background=1B4D3D&ring=FDCB5C&fire=5DAF7E&currStreakLabel=FDCB5C" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=1B4D3D&title_color=FDCB5C&text_color=FFFFFF&hide_border=true" height="170" />
 </div>
+
 ---
 
 ## 📫 How to Reach Me  

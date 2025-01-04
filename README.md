@@ -26,16 +26,17 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=0,FF6347,FFB6C1&title_color=fff&text_color=fff&icon_color=FFD700&border_radius=10&hide_title=true" height="170" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=0,004D40,00695C&title_color=fff&text_color=fff&icon_color=81C784&border_radius=10&hide_title=true" height="170" width="500" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=radical&background=0,6A5ACD,4B0082&stroke=FFFFFF&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true" height="170" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=radical&background=0,004D40,00695C&stroke=FFFFFF&ring=81C784&fire=81C784&currStreakLabel=81C784&hide_border=true" height="170" width="500" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=0,FF6347,FFB6C1&title_color=fff&text_color=fff&hide_border=true&langs_count=6" height="170" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=0,004D40,00695C&title_color=fff&text_color=fff&hide_border=true&langs_count=6" height="170" width="500" />
 </div>
+
 ---
 
 ## 📫 How to Reach Me  

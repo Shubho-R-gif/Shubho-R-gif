@@ -29,9 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=8A2BE2&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="170" />
 </div>
 
-
-
-
 ---
 
 ## 📫 How to Reach Me  

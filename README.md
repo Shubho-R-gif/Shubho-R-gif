@@ -25,9 +25,9 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubho-R-gif&show_icons=true&bg_color=30,8A2BE2,4B0082&title_color=FFFFFF&text_color=FFFFFF&icon_color=DA70D6" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubho-R-gif&theme=dark&background=8A2BE2&ring=DA70D6&fire=4B0082&currStreakLabel=FFFFFF" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho-R-gif&layout=compact&bg_color=8A2BE2&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="170" />
 </div>
+>
 
 ---
 
